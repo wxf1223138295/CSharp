@@ -1,0 +1,6 @@
+D:\C#实例\csharp实例\抽象工厂模式\bin\Debug\抽象工厂模式.exe.config
+D:\C#实例\csharp实例\抽象工厂模式\bin\Debug\抽象工厂模式.exe
+D:\C#实例\csharp实例\抽象工厂模式\bin\Debug\抽象工厂模式.pdb
+D:\C#实例\csharp实例\抽象工厂模式\obj\Debug\抽象工厂模式.csprojResolveAssemblyReference.cache
+D:\C#实例\csharp实例\抽象工厂模式\obj\Debug\抽象工厂模式.exe
+D:\C#实例\csharp实例\抽象工厂模式\obj\Debug\抽象工厂模式.pdb

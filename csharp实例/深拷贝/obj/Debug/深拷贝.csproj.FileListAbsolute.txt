@@ -1,0 +1,6 @@
+D:\C#实例\csharp实例\深拷贝\bin\Debug\深拷贝.exe.config
+D:\C#实例\csharp实例\深拷贝\bin\Debug\深拷贝.exe
+D:\C#实例\csharp实例\深拷贝\bin\Debug\深拷贝.pdb
+D:\C#实例\csharp实例\深拷贝\obj\Debug\深拷贝.exe
+D:\C#实例\csharp实例\深拷贝\obj\Debug\深拷贝.pdb
+D:\C#实例\csharp实例\深拷贝\obj\Debug\深拷贝.csprojResolveAssemblyReference.cache
