@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <mata name="viewport" content="with=device-width"></mata>
+    <title>Index</title>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $("#loadDiv").css("display", "none");
+            $("#btnjqueryAjax").click(function () {
+                $.ajax({
+                    url: "/Ajax/Date",
+                    type: "POST",
+                    data: {},
+                    success: function (data) {
+                        alert(data);
+                    }
+                })
+            })
+        });
+        function afterSuccess(data) {
+            alert(data);
+        }
+
+       
+    </script>
+    @*<script type="text/javascript">
+        function afterSuccess(data) {
+            alert(data);
+        }
+    </script>*@
+</head>
+<body>
+    <div>
+        <input type="button" value="获取时间" id="btnjqueryAjax"/>
+        <hr/>
+        <h3>自带mvc 异步请求的方式</h3>
+        @using (Ajax.BeginForm("Date","Ajax",new AjaxOptions() {
+            Confirm="你确认提交吗",
+            HttpMethod="POST",
+            UpdateTargetId= "resultDiv",
+            InsertionMode=InsertionMode.Replace,
+            OnSuccess="afterSuccess",
+            LoadingElementId="loadDiv"
+        }))
+        {
+            <input type="text" name="txtName"/>
+            <br/>
+            <input type="submit" value="获取时间"/>
+        }
+        <div id="resultDiv">
+            
+        </div>
+        <div id="loadDiv">
+            <img src="~/Content/1.png" />
+        </div>
+    </div>
+</body>
+</html>
+

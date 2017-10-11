@@ -1,0 +1,6 @@
+D:\Csharp\CSharp\csharp实例\UseWebServer\obj\Debug\UseWebServer.csprojResolveAssemblyReference.cache
+D:\Csharp\CSharp\csharp实例\UseWebServer\bin\Debug\UseWebServer.exe.config
+D:\Csharp\CSharp\csharp实例\UseWebServer\bin\Debug\UseWebServer.exe
+D:\Csharp\CSharp\csharp实例\UseWebServer\bin\Debug\UseWebServer.pdb
+D:\Csharp\CSharp\csharp实例\UseWebServer\obj\Debug\UseWebServer.exe
+D:\Csharp\CSharp\csharp实例\UseWebServer\obj\Debug\UseWebServer.pdb
