@@ -1,0 +1,9 @@
+D:\Csharp\CSharp\csharp实例\大通杀杀杀\obj\Debug\大通杀杀杀.Form1.resources
+D:\Csharp\CSharp\csharp实例\大通杀杀杀\obj\Debug\大通杀杀杀.Properties.Resources.resources
+D:\Csharp\CSharp\csharp实例\大通杀杀杀\obj\Debug\大通杀杀杀.csproj.GenerateResource.Cache
+D:\Csharp\CSharp\csharp实例\大通杀杀杀\bin\Debug\大通杀杀杀.exe.config
+D:\Csharp\CSharp\csharp实例\大通杀杀杀\bin\Debug\大通杀杀杀.exe
+D:\Csharp\CSharp\csharp实例\大通杀杀杀\bin\Debug\大通杀杀杀.pdb
+D:\Csharp\CSharp\csharp实例\大通杀杀杀\obj\Debug\大通杀杀杀.exe
+D:\Csharp\CSharp\csharp实例\大通杀杀杀\obj\Debug\大通杀杀杀.pdb
+D:\Csharp\CSharp\csharp实例\大通杀杀杀\obj\Debug\大通杀杀杀.csprojResolveAssemblyReference.cache

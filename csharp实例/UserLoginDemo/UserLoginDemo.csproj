@@ -175,6 +175,7 @@
     <Compile Include="Models\代码_电子住院证.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
+    <Compile Include="MVCHttpHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -239,6 +240,7 @@
     <Content Include="Views\GURD\Details.cshtml" />
     <Content Include="Views\Ajax\Index.cshtml" />
     <Content Include="Views\FormSubmit\Create.cshtml" />
+    <Content Include="Views\GURD\Edit.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

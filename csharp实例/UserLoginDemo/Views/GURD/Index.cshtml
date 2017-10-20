@@ -187,3 +187,7 @@
 }
 
 </table>
+
+    <div id="pageNav">
+        @Html.ShowPageNavigate((int)ViewData["pageIndex"],(int)ViewData["pageSize"],(int)ViewData["total"]);
+    </div>

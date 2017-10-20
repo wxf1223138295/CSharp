@@ -17,5 +17,11 @@ namespace UserLoginDemo.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public ActionResult Create(int a)
+        {
+            ViewData["hr"] = a;
+            return View();
+        }
     }
 }

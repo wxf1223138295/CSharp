@@ -1,0 +1,6 @@
+D:\Csharp\CSharp\csharp实例\XMLTOlinq\bin\Debug\XMLTOlinq.exe.config
+D:\Csharp\CSharp\csharp实例\XMLTOlinq\bin\Debug\XMLTOlinq.exe
+D:\Csharp\CSharp\csharp实例\XMLTOlinq\bin\Debug\XMLTOlinq.pdb
+D:\Csharp\CSharp\csharp实例\XMLTOlinq\obj\Debug\XMLTOlinq.csprojResolveAssemblyReference.cache
+D:\Csharp\CSharp\csharp实例\XMLTOlinq\obj\Debug\XMLTOlinq.exe
+D:\Csharp\CSharp\csharp实例\XMLTOlinq\obj\Debug\XMLTOlinq.pdb
