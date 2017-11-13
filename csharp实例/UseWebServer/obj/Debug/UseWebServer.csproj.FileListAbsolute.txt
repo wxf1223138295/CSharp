@@ -4,3 +4,6 @@ D:\Csharp\CSharp\csharp实例\UseWebServer\bin\Debug\UseWebServer.exe
 D:\Csharp\CSharp\csharp实例\UseWebServer\bin\Debug\UseWebServer.pdb
 D:\Csharp\CSharp\csharp实例\UseWebServer\obj\Debug\UseWebServer.exe
 D:\Csharp\CSharp\csharp实例\UseWebServer\obj\Debug\UseWebServer.pdb
+F:\GitHub\csharp实例\UseWebServer\bin\Debug\UseWebServer.exe.config
+F:\GitHub\csharp实例\UseWebServer\obj\Debug\UseWebServer.exe
+F:\GitHub\csharp实例\UseWebServer\obj\Debug\UseWebServer.pdb

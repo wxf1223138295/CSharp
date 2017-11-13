@@ -1,0 +1,6 @@
+F:\GitHub\csharp实例\并行任务\bin\Debug\并行任务.exe.config
+F:\GitHub\csharp实例\并行任务\bin\Debug\并行任务.exe
+F:\GitHub\csharp实例\并行任务\bin\Debug\并行任务.pdb
+F:\GitHub\csharp实例\并行任务\obj\Debug\并行任务.csprojResolveAssemblyReference.cache
+F:\GitHub\csharp实例\并行任务\obj\Debug\并行任务.exe
+F:\GitHub\csharp实例\并行任务\obj\Debug\并行任务.pdb

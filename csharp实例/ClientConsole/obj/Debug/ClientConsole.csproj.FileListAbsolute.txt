@@ -1,0 +1,9 @@
+F:\GitHub\csharp实例\ClientConsole\bin\Debug\ClientConsole.exe.config
+F:\GitHub\csharp实例\ClientConsole\bin\Debug\ClientConsole.exe
+F:\GitHub\csharp实例\ClientConsole\bin\Debug\ClientConsole.pdb
+F:\GitHub\csharp实例\ClientConsole\bin\Debug\RestSharp.dll
+F:\GitHub\csharp实例\ClientConsole\obj\Debug\ClientConsole.csprojResolveAssemblyReference.cache
+F:\GitHub\csharp实例\ClientConsole\obj\Debug\ClientConsole.exe
+F:\GitHub\csharp实例\ClientConsole\obj\Debug\ClientConsole.pdb
+F:\GitHub\csharp实例\ClientConsole\bin\Debug\Newtonsoft.Json.dll
+F:\GitHub\csharp实例\ClientConsole\bin\Debug\Newtonsoft.Json.xml
