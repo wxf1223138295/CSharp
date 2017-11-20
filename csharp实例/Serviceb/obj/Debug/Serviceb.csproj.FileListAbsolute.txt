@@ -1,0 +1,5 @@
+F:\GitHub\csharp实例\Serviceb\bin\Debug\Serviceb.dll
+F:\GitHub\csharp实例\Serviceb\bin\Debug\Serviceb.pdb
+F:\GitHub\csharp实例\Serviceb\obj\Debug\Serviceb.csprojResolveAssemblyReference.cache
+F:\GitHub\csharp实例\Serviceb\obj\Debug\Serviceb.dll
+F:\GitHub\csharp实例\Serviceb\obj\Debug\Serviceb.pdb

@@ -55,8 +55,8 @@ namespace 深拷贝
         public static T Clone<T>(T Obj) where T : class
         {
             object result = null;
-            System.IO.MemoryStream memoryStream = new System.IO.MemoryStream();
-            System.Runtime.Serialization.Formatters.Binary.BinaryFormatter formatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
+            var memoryStream = new System.IO.MemoryStream();
+            var formatter = new System.Runtime.Serialization.Formatters.Binary.BinaryFormatter();
             try
             {
                 if (Obj != null)

@@ -4,3 +4,6 @@ D:\C#实例\csharp实例\委托\bin\Debug\委托.pdb
 D:\C#实例\csharp实例\委托\obj\Debug\委托.csprojResolveAssemblyReference.cache
 D:\C#实例\csharp实例\委托\obj\Debug\委托.exe
 D:\C#实例\csharp实例\委托\obj\Debug\委托.pdb
+F:\GitHub\csharp实例\委托\bin\Debug\委托.exe.config
+F:\GitHub\csharp实例\委托\obj\Debug\委托.exe
+F:\GitHub\csharp实例\委托\obj\Debug\委托.pdb

@@ -7,3 +7,5 @@ F:\GitHub\csharp实例\ClientConsole\obj\Debug\ClientConsole.exe
 F:\GitHub\csharp实例\ClientConsole\obj\Debug\ClientConsole.pdb
 F:\GitHub\csharp实例\ClientConsole\bin\Debug\Newtonsoft.Json.dll
 F:\GitHub\csharp实例\ClientConsole\bin\Debug\Newtonsoft.Json.xml
+F:\GitHub\csharp实例\ClientConsole\bin\Debug\Serviceb.dll
+F:\GitHub\csharp实例\ClientConsole\bin\Debug\Serviceb.pdb

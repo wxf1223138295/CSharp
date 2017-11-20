@@ -18,8 +18,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseWebServer", "UseWebServe
 		{22A032E8-C463-4EFD-B494-C786F6CEDBA0} = {22A032E8-C463-4EFD-B494-C786F6CEDBA0}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLoginDemo", "UserLoginDemo\UserLoginDemo.csproj", "{1645E0C5-230C-48E0-A071-7566D98F899B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformControl", "WinformControl\WinformControl.csproj", "{F992EACB-A2FF-42E9-BF4F-493ACCD1051B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "并行任务", "并行任务\并行任务.csproj", "{37E19955-9E67-4EE2-B1BE-CC4D9CBE2A08}"
@@ -27,6 +25,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientConsole", "ClientConsole\ClientConsole.csproj", "{BB15D84E-7476-4E1B-BC68-D1B01BA26184}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "restApi", "restApi\restApi.csproj", "{8FAC0C51-FB8F-4418-B01C-1714CBFB4456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serviceb", "Serviceb\Serviceb.csproj", "{CF74EC33-58C6-46E4-BB6F-F98680EC4053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SererHost", "SererHost\SererHost.csproj", "{8DC21864-3944-472C-AE8B-C7C47920809D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -58,10 +60,6 @@ Global
 		{B4B42B3B-148D-4C11-82E4-8269E82172B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4B42B3B-148D-4C11-82E4-8269E82172B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4B42B3B-148D-4C11-82E4-8269E82172B8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1645E0C5-230C-48E0-A071-7566D98F899B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1645E0C5-230C-48E0-A071-7566D98F899B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1645E0C5-230C-48E0-A071-7566D98F899B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1645E0C5-230C-48E0-A071-7566D98F899B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F992EACB-A2FF-42E9-BF4F-493ACCD1051B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F992EACB-A2FF-42E9-BF4F-493ACCD1051B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F992EACB-A2FF-42E9-BF4F-493ACCD1051B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -78,6 +76,14 @@ Global
 		{8FAC0C51-FB8F-4418-B01C-1714CBFB4456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FAC0C51-FB8F-4418-B01C-1714CBFB4456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FAC0C51-FB8F-4418-B01C-1714CBFB4456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF74EC33-58C6-46E4-BB6F-F98680EC4053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF74EC33-58C6-46E4-BB6F-F98680EC4053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF74EC33-58C6-46E4-BB6F-F98680EC4053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF74EC33-58C6-46E4-BB6F-F98680EC4053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC21864-3944-472C-AE8B-C7C47920809D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC21864-3944-472C-AE8B-C7C47920809D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC21864-3944-472C-AE8B-C7C47920809D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC21864-3944-472C-AE8B-C7C47920809D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

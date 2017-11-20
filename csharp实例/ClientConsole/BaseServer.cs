@@ -21,7 +21,7 @@ namespace ClientConsole
     {
         public BaseServer()
         {
-            _Http = "http://localhost:8040";
+            _Http = "http://127.0.0.1:9909/";
             Uri uri=new Uri(_Http);
             m_Client.BaseUrl = uri;
         }

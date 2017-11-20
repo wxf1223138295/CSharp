@@ -1,0 +1,8 @@
+F:\GitHub\csharp实例\SererHost\bin\Debug\SererHost.exe.config
+F:\GitHub\csharp实例\SererHost\bin\Debug\SererHost.exe
+F:\GitHub\csharp实例\SererHost\bin\Debug\SererHost.pdb
+F:\GitHub\csharp实例\SererHost\bin\Debug\Serviceb.dll
+F:\GitHub\csharp实例\SererHost\bin\Debug\Serviceb.pdb
+F:\GitHub\csharp实例\SererHost\obj\Debug\SererHost.csprojResolveAssemblyReference.cache
+F:\GitHub\csharp实例\SererHost\obj\Debug\SererHost.exe
+F:\GitHub\csharp实例\SererHost\obj\Debug\SererHost.pdb

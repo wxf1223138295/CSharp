@@ -4,17 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClientConsole
+namespace 松耦合
 {
     class Program
     {
         static void Main(string[] args)
         {
-            CommonServer ces=new CommonServer();
-            var result=ces.getResult(4);
-           
-            Console.WriteLine(result);
-            Console.ReadKey();
         }
     }
 }
